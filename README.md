@@ -1,5 +1,7 @@
 # llm-quickstarts
-Example notebooks for doing LLM things
+Example notebooks for doing LLM things.
+
+Most of the notebooks are simply lifted from the [Langchain Python docs](https://python.langchain.com/docs)
 
 # Setup
 
